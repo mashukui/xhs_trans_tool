@@ -3,6 +3,7 @@
 
 # 一、背景分析
 ## 1.1 开发背景与功能介绍
+<img width="2046" height="328" alt="xhs_slogon" src="https://github.com/user-attachments/assets/3dbf9371-3042-4586-83e6-72ece0ff84dd" />
 
 我之前开发了几个小红书采集软件，受到了很多相关用户的认可和关注，感谢大家。
 
@@ -101,7 +102,7 @@ def get_logger(self):
 ```
 
 # 三、演示视频
-软件使用过程演示视频：[【软件演示】小红书批量转换工具，主页链接和小红书号互转！](https://www.bilibili.com/video/BV13t3SzqEeM/)
+软件使用过程演示视频：[【软件演示】小红书批量转换工具，主页链接和小红书号互转！](https://mp.weixin.qq.com/s/QMpuNN1E4EtpqOJWBDZNPQ)
 
 # 四、付费说明
 ## 4.1 卡密说明
