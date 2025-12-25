@@ -113,7 +113,8 @@ def get_logger(self):
 季卡：使用期限3个月，299元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，599元。年卡可多次购买。适合长期采集需求
 ```
-付费方式：<img width="1528" height="918" alt="收款码v2" src="https://github.com/user-attachments/assets/ec8e8a5f-9d0c-4edd-8498-324c571cb2c3" />
+付费方式：
+<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/24a0c86e-1ad8-4dab-948e-ca845e858e7f" />
 
 付费后，加我v（493882434）自动掉落登录卡密。
 
@@ -125,6 +126,6 @@ def get_logger(self):
 
 # 五、软件获取
 "**小红书转换工具**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！
-![二维码-公众号放底部](https://github.com/user-attachments/assets/b98aa9f5-aff2-450f-995d-b5df0172da08)
-其他疑问，加马哥V：493882434
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/73335cb9-9b3c-4d64-a62f-a2445ba804f3" />
+
 
