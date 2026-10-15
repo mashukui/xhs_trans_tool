@@ -13,16 +13,16 @@
 功能很简单，支持3个：（目前已升至最新版v2.1版本）
 
 功能1、把小红书主页链接批量转换成小红书号：
-![主页链接->小红书号](https://files.mdnice.com/user/32110/e84270f4-fbf9-454e-bf53-7c8b91cea85e.jpg)
+![主页链接->小红书号](images/xht_01.jpg)
 
 自动导出转换结果到csv文件：
-![小红书转换1.csv](https://files.mdnice.com/user/32110/f98c00ca-c0d5-4334-a290-d37bbf0fda2c.png)
+![小红书转换1.csv](images/xht_02.png)
 
 功能2、把小红书号批量转换成主页链接：
-![小红书号->主页链接](https://files.mdnice.com/user/32110/f5a0fa68-4407-4e61-a230-176c3b5ec7e8.jpg)
+![小红书号->主页链接](images/xht_03.jpg)
 
 自动导出转换结果到csv文件：
-![小红书转换2.csv](https://files.mdnice.com/user/32110/53d94f85-887d-4e0b-aeec-6c71f6c3c379.png)
+![小红书转换2.csv](images/xht_04.png)
 
 功能3、把app端笔记链接转为pc端笔记链接：（这是v2.0版本截图）
 <img width="852" height="688" alt="v2 0_mac" src="https://github.com/user-attachments/assets/c975abb9-6b09-4a96-b5bf-6da39a22c45e" />
